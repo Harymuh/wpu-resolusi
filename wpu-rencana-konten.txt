@@ -6,6 +6,7 @@ Rencana konten WPU
 *membuat minimal 4 porto dalam 1 bulan
 -belajar api
 -belajar react
+*REact Java
 -mendalami CSS
 -menambah ilmu HTML5
 -belajar membuat portofolio
