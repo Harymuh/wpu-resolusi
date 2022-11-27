@@ -1,0 +1,9 @@
+Rencana konten WPU
+-belajar java script
+-belajar menadalami framework
+*belajar bootstraps 5
+*belajar Framework Wildstark
+-belajar api
+-belajar react
+-mendalami CSS
+-menambah ilmu HTML5
