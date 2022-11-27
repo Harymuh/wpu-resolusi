@@ -7,3 +7,4 @@ Rencana konten WPU
 -belajar react
 -mendalami CSS
 -menambah ilmu HTML5
+-belajar membuat portofolio
